@@ -1,0 +1,21 @@
+Version: E2M SampleFile 1.0
+SampleTime: +0.01
+ColumnCount: 3
+Column 1  = PosX
+Column 2  = VelX
+Column 3  = AccX
+
+START_META_DATA
+
+	SignalList_Begin
+	
+		Signal_Begin
+			Type	VectorDouble3
+			Name	X_PVA
+			Unit	m|m/s|m/s2
+			Comment	"PVA setpoint for surge degree of freedom"
+		Signal_End
+		
+	SignalList_End
+
+END_META_DATA

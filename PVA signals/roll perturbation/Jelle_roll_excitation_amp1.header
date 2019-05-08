@@ -1,0 +1,21 @@
+Version: E2M SampleFile 1.0
+SampleTime: +0.01
+ColumnCount: 3
+Column 1  = PosP
+Column 2  = VelP
+Column 3  = AccP
+
+START_META_DATA
+
+	SignalList_Begin
+	
+		Signal_Begin
+			Type	VectorDouble3
+			Name	P_PVA
+			Unit	rad|rad/s|rad/s2
+			Comment	"PVA setpoint for roll degree of freedom"
+		Signal_End
+		
+	SignalList_End
+
+END_META_DATA

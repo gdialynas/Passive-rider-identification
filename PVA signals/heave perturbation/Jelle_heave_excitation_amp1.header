@@ -1,0 +1,21 @@
+Version: E2M SampleFile 1.0
+SampleTime: +0.01
+ColumnCount: 3
+Column 1  = PosZ
+Column 2  = VelZ
+Column 3  = AccZ
+
+START_META_DATA
+
+	SignalList_Begin
+	
+		Signal_Begin
+			Type	VectorDouble3
+			Name	Z_PVA
+			Unit	m|m/s|m/s2
+			Comment	"PVA setpoint for heave degree of freedom"
+		Signal_End
+		
+	SignalList_End
+
+END_META_DATA
