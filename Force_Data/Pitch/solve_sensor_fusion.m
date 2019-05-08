@@ -62,14 +62,14 @@ sub16_20_t2    = cell2mat(sub16_20_t2);
 sub21_24_t2    = cell2mat(sub21_24_t2);
 
 % vector with mean errors of strain gauges
-err_sub1       = repmat(y{1}{1},1,1);
-err_sub2_6     = repmat(y{1}{2},1,5);
-err_sub7       = repmat(y{1}{3},1,1);
-err_sub8_10    = repmat(y{1}{4},1,3);
-err_sub11_13   = repmat(y{1}{5},1,3);
-err_sub14_15   = repmat(y{1}{6},1,2);
-err_sub16_20   = repmat(y{1}{7},1,5);
-err_sub21_24   = repmat(y{1}{8},1,4);
+err_sub1       = repmat(y{1},1,1);
+err_sub2_6     = repmat(y{2},1,5);
+err_sub7       = repmat(y{3},1,1);
+err_sub8_10    = repmat(y{4},1,3);
+err_sub11_13   = repmat(y{5},1,3);
+err_sub14_15   = repmat(y{6},1,2);
+err_sub16_20   = repmat(y{7},1,5);
+err_sub21_24   = repmat(y{8},1,4);
 
 % Solve for error
 scaled_sub1_OS      = sub1_OS - err_sub1; 
