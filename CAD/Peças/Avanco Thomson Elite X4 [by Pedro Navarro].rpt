@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : Avanco Thomson Elite X4.SLDASM
+Recibiendo I.D. de producto de sistema: Avanco Thomson Elite X4.SLDASM
+Nombre de archivo                    : C:\Users\pedro.navarro.NEWVISION\Desktop\BIKE 3D\Direcao\Avanco Thomson\Avanco Thomson Elite X4 [by Pedro Navarro].IGS
+Enviando sistema               : SolidWorks 2014
+Versión de preprocesador         : SolidWorks 2014
+Fecha de creación del archivo           : 150113.162543
+Fecha de creación del modelo          : 150113.162543
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : pedro.navarro
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               1
+  Número de dígitos significativos más alto:                     10
+  Número de dígitos significativos promedio:                3.32414
+  Distancia máxima hasta el origen:                          1018.02
+  Distancia mínima hasta el origen:                                0
+  Número de dígitos significativos efectivo:                   10
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                            330       330
+102  Composite curve                                456       456
+110  Line                                           476       476
+120  Surface of revolution                           97        97
+124  Transformation matrix                          309       309
+126  Rational B-spline curve                       1444      1444
+128  Rational B-spline surface                       98        98
+142  Curve on a parametric surface                  228       228
+144  Trimmed parametric surface                     195       195
+308  Subfigure definition                             3         3
+314  Color definition                                 4         4
+408  Singular subfigure instance                      8         8
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas3
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: martes, marzo 21, 2017 18:54:33
+Hora de finalización: martes, marzo 21, 2017 18:54:36
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 03 secs
