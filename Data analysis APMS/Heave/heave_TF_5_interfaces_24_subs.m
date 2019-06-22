@@ -1,11 +1,5 @@
 %% Calculating the transfer functions (TFs) for the passive rider
 
-% Author: Jelle Waling de Haan
-% Graduation project: Passive Rider Identification 
-% Script: Calculating individual TFs, TF mean rider, normalised TFs and normalised TF
-% mean rider with STD.
-% Last update: 04-03-2019
- 
 % This script calculates the raw individual TFs for 24 subjects. This means
 % that for 24 subjects the gain, phase and coherence are calculated.
 % Furthermore, TF of the mean rider (= average of 24 subjects) is
